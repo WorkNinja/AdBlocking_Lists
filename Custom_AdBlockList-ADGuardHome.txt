@@ -1,7 +1,13 @@
 ! Title: Custom Ad Block list for AdGuard Home 
 ! Version: 11162022v1
 
-! Social Media crap
+! Ads crap
+||doubleclick.net^
+||ad.doubleclick.net^
+||static.doubleclick.net^
+||m.doubleclick.net^
+||mediavisor.doubleclick.net^
+||media.fastclick.net^
 ||ads.facebook.com^
 |ads-api.twitter.com|
 ||advertising.twitter.com^
