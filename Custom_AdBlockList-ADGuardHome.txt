@@ -22,8 +22,10 @@
 ||advice-ads.s3.amazonaws.com^
 ||advertising-api-eu.amazon.com^
 ||affiliationjs.s3.amazonaws.com^
+||amazonaax.com^
 ||ads.yap.yahoo.com^
 ||business.samsungusa.com^
+||ads.youtube.com^
 
 ! Analytics
 ||ssl.google-analytics.com^
