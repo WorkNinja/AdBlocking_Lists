@@ -3,7 +3,7 @@
 
 ! Social Media crap
 ||ads.facebook.com^
-||ads-api.twitter.com^
+|ads-api.twitter.com|
 ||advertising.twitter.com^
 ||widgets.pinterest.com^
 ||ads-dev.pinterest.com^
