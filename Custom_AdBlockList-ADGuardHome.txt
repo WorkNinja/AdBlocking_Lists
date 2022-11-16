@@ -24,7 +24,7 @@
 ||analyticsengine.s3.amazonaws.com^
 ||hotjar.com^
 ||static.hotjar.com^
-||mouseflow.com^
+|mouseflow.com^
 ||a.mouseflow.com^
 ||freshmarketer.com/^
 ||luckyorange.com^
@@ -40,6 +40,10 @@
 ||sessions.bugsnag.com^
 ||api.bugsnag.com^
 ||app.bugsnag.com^
-|browser.sentry-cdn.com|
-|app.getsentry.com|
+||browser.sentry-cdn.com^
+|app.getsentry.com^
+
+! Random Shit
+||appmetrica.yandex.com^
+||yandexadexchange.net^
 
