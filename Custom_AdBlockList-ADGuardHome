@@ -1,0 +1,27 @@
+! Title: Custom Ad Block list for AdGuard Home 
+! Version: 11162022v1
+
+! Social Media crap
+||ads.facebook.com^
+||ads-api.twitter.com^
+||advertising.twitter.com^
+||widgets.pinterest.com^
+||ads-dev.pinterest.com^
+||ads.pinterest.com^
+||ads.reddit.com^
+||ads.tiktok.com^
+||ads.google.com^
+||adservice.google.com^
+||adtago.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||affiliationjs.s3.amazonaws.com^
+||ads.yap.yahoo.com^
+||business.samsungusa.com^
+
+! Error tracking
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+
